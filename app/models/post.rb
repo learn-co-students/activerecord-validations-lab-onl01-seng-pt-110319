@@ -10,4 +10,4 @@ class Post < ActiveRecord::Base
         errors.add(:clickbait, "is not enticing enough")
       end
     end
-  end
+  end 
